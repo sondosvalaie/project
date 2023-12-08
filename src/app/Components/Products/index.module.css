@@ -1,0 +1,19 @@
+
+.top{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.all{
+    display: flex;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+    width: 75%;
+    height: 66%;
+    margin-left: 13%;
+    justify-content: space-between;
+    
+}

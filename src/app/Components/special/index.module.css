@@ -1,0 +1,117 @@
+.tom{
+    margin-left: 180px;
+    margin-top: 80px;
+    display: flex;
+}
+.tomtwo{
+    margin-left: 180px;
+    margin-top: 80px;
+    display: flex;
+}
+.food{
+    
+    background-color: transparent;
+    background-image: linear-gradient(180deg, rgba(255, 253, 251, 0.144) ,rgba(246, 197, 133, 0.566)) ;
+    margin-right: 35px;
+    border-radius: 30px;
+    padding: 0px 35px;
+    margin-top: 40px;
+}
+.topping{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Rubik-Light;
+}
+.dish{
+    font-size: 25px;
+}
+.lorem{
+    color: rgba(0, 0, 0, 0.566);
+}
+.price{
+    color: #FF7E4C;
+}
+.imgpro{
+    height: 300px;
+    width: 300px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+.promo{
+    background-image: linear-gradient(90deg, rgb(236, 187, 115), rgb(255, 145, 0) );
+    padding: 60px 95px 60px 95px;
+    margin-top: 80px;
+    border-radius: 50px;
+    border: 10px solid white;
+    box-shadow: 0px 0px 40px 0px rgba(229, 172.99999999999994, 23.00000000000003, 0.29);
+    margin-right: 40px;
+}
+.bothh{
+   display: flex;
+}
+.platee{
+    display: flex;
+}
+.imgpr{
+    height: 360px;
+    width: 330px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    
+}
+.imgpro:hover{
+    transform: scale(1.1);
+}
+.imgpr:hover{
+    transform: scale(1.1);
+   
+}
+.platr{
+   
+    color: white;
+}
+.promm{
+    background-color: transparent;
+    background-color: #ffc0a788;
+    border: none;
+    padding: 15px;
+    border-radius: 25px;
+    color: white;
+    font-size: 18px;
+}
+.name{
+    font-size: 23px;
+}
+.inf{
+    font-family:Rubik-Light ;
+}
+.dol{
+    font-size: 35px;
+}
+.buy{
+    background-color: transparent;
+    background-color: white;
+    border: 5px solid rgba(128, 128, 128, 0.259);
+    padding: 15px;
+    border-radius: 25px;
+    color: black;
+    font-size: 18px;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.buy:hover{
+    transform: scale(1.1);
+}
+.head{
+    font-size: 50px;
+}
+.headb{
+    color: rgba(0, 0, 0, 0.566);
+    font-size: 18px;
+}
+.header{
+    text-align: center;
+    margin-top: 80px;
+}
